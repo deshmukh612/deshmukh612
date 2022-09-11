@@ -1,5 +1,5 @@
 
-<h1 style={{text-align: "center"}}>Hi there , 👋 I am Priya Deshmukh !</h1>
+<h1 align="left">Hi there , 👋 I am Priya Deshmukh !</h1>
 
 ## 🚀 About Me
 I am a Tech enthusiast. I love to build apps that are interesting and useful. and I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems sparkles.
