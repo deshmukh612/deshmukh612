@@ -11,7 +11,7 @@ I am a Tech enthusiast. I love to build apps that are interesting and useful. an
 
 - 💬 Ask me about React and NodeJS
 
-- 💼 Visit my [portfolio](https://priyaportfolio-nine.vercel.app/)for more details
+- 💼 Visit my [portfolio](https://priyaportfolio-nine.vercel.app/) for more details
 
 - 📫 How to reach me: priyadeshmukh612@gmail.com
 
