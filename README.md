@@ -9,6 +9,7 @@ I am a Tech enthusiast. I love to build apps that are interesting and useful. an
 - 👯 I’m looking to collaborate on Linkedin
 - 💬 Ask me about React and NodeJS
 - 📫 How to reach me: priyadeshmukh612@gmail.com
+- 📄 Know about my experiences: Resume(https://drive.google.com/file/d/143dfV225lWiSEuqvRVv--eYMno1njKl8/view)
 
 
 
