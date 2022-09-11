@@ -2,7 +2,7 @@
 <h1 style={{text-align: "center"}}>Hi there , 👋 I am Priya Deshmukh !</h1>
 
 ## 🚀 About Me
-I'm a detail-oriented and result-driven full-stack developer with a specialization in MERN stack. Loves beating the competition and determination to be successful in the web-development field. Dedicate to building and optimizing the performance of user-centric, high impact websites. 
+I am a Tech enthusiast. I love to build apps that are interesting and useful. and I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems sparkles.
 
 
 - 🌱 I’m currently learning MERN stack
