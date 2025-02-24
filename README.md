@@ -13,7 +13,7 @@ I am a Tech enthusiast. I love to build apps that are interesting and useful. an
 
 - 💼 Visit my [portfolio](https://priyaportfolio-nine.vercel.app/) for more details
 
-- 📫 How to reach me: [priyadeshmukh612@gmail.com](priyadeshmukh612@gmail.com)
+- 📫 How to reach me: [priyadeshmukh865@gmail.com](priyadeshmukh865@gmail.com)
 
 - 📄 Know about my [experiences](https://drive.google.com/file/d/143dfV225lWiSEuqvRVv--eYMno1njKl8/view)
 
