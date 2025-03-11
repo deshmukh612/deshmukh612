@@ -11,7 +11,7 @@
 ## 🚀 About Me
 👋 Highly skilled and motivated Full Stack Web Developer with 3 years of experience in building robust web applications.
 Specializing in building scalable, high-performance applications with modular and reusable components using React Hooks, Context API, and Redux for efficient state management. 
-I have integrated REST APIs and GraphQL, optimized performance with lazy loading, memoization, and code splitting, and ensured responsive UI/UX using Material-UI, Bootstrap, and Styled Components.
+I have integrated REST APIs and optimized performance with lazy loading, memoization, and code splitting, and ensured responsive UI/UX using Material-UI, Bootstrap, and Styled Components.
 
 🌱 My expertise extends to debugging, writing unit tests with Jest & React Testing Library, tracking tasks in JIRA, and optimizing rendering speed using best practices. I have deployed applications on Heroku, Vercel, and Netlify, following CI/CD pipelines and Git version control.
 🎯 A key achievement includes developing a role-based asset management system for Maha Metro, improving efficiency and reducing load time by 40%.
