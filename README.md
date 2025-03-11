@@ -3,6 +3,7 @@
 
 ## 🚀 About Me
 I am a Tech enthusiast. I love to build apps that are interesting and useful. and I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems sparkles.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutu-11&label=Profile%20views&color=0e75b6&style=flat" alt="rutu-11" /> </p>
 
 
 - 🌱 I’m currently learning MERN stack
