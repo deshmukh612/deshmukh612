@@ -80,10 +80,10 @@ I am a Tech enthusiast. I love to build apps that are interesting and useful. an
 # 📊 GitHub Stats:
 
 
-<div display="flex" style="text-align: right;" gap="100px">
+<div display="flex" style="text-align: right;" gap="200px">
 <!--   <img  width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=deshmukh612&theme=onedark&hide_border=false" alt="GitHub Streak Stats"> -->
  <img width="450px" height="200px" src="https://github-readme-stats.vercel.app/api?username=deshmukh612&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Contributor Stats">
- <img  width="400px" height="200px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutu-11&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" >
+ <img  width="450px" height="200px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutu-11&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" >
  
  
 </div>
