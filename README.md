@@ -87,7 +87,7 @@ I am a Tech enthusiast. I love to build apps that are interesting and useful. an
 </div>
 
 <div display="flex" style="text-align: right;">
-  <img   width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshmukh612&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=broad" alt="Top Languages" >
+  <img   width="40%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshmukh612&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout" alt="Top Languages" >
  <img   width="42%"  src="https://github-contributor-stats.vercel.app/api?username=deshmukh612&limit=5&theme=onedark&combine_all_yearly_contributions=true" alt="Top Languages" >  
 </div>
 
@@ -95,6 +95,27 @@ I am a Tech enthusiast. I love to build apps that are interesting and useful. an
 
 ## 🏆 GitHub Trophies
 <img img align="center" width="95%"  src="https://github-profile-trophy.vercel.app/?username=deshmukh612&theme=juicyfresh" alt="GitHub Profile Trophy" >
+
+
+
+<h2 align='center'>📊 My Github Stats</h2>
+
+<div style="display: flex;">
+    <img width="450px" height="200px" alt="Priya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deshmukh612&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+    <img width="300px" height="200px" alt="Priya Deshmukh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshmukh612&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</div>
+
+<div>
+  <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
+  <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deshmukh612&theme=github_dark" alt="deshmukh612" align = "center"/></p>
+</div>
+
+<div>
+  <p align='center'><b>🏆 Github Achievements</b></p><br/>
+  <p align="center"> <a href="https://github.com/deshmukh612"><img src="https://github-profile-trophy.vercel.app/?username=&margin-w=5&theme=radical" alt="Priya" /></a> </p>
+</div>
+
+ <hr>
 
 
 
