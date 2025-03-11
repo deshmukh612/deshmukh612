@@ -83,7 +83,8 @@ I am a Tech enthusiast. I love to build apps that are interesting and useful. an
 <div display="flex" style="text-align: right;">
 <!--   <img  width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=deshmukh612&theme=onedark&hide_border=false" alt="GitHub Streak Stats"> -->
  <img width="450px" height="200px" src="https://github-readme-stats.vercel.app/api?username=deshmukh612&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Contributor Stats">
- <img   width="300px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshmukh612&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout" alt="Top Languages" >
+ <img  width="300px" height="200px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutu-11&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" >
+ 
  
 </div>
 
