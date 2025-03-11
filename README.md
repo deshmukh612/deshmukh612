@@ -98,7 +98,7 @@ I have integrated REST APIs and optimized performance with lazy loading, memoiza
 <div display="flex" style="text-align: right; justify-content:"space-between", " >
 <!--   <img  width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=deshmukh612&theme=onedark&hide_border=false" alt="GitHub Streak Stats"> -->
  <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=deshmukh612&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Contributor Stats">
- <img  width="40%" height="180px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutu-11&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" >
+ <img  width="40%" height="190px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutu-11&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" >
  
  
 </div>
