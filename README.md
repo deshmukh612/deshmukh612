@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 I am a Tech enthusiast. I love to build apps that are interesting and useful. and I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems sparkles.
-<img align="right"  alt="coading" marginLeft="20px" width="400" height="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"/>
+<img align="right"  alt="coading" marginLeft="20px" width="400" height="400" src="https://cdn.dribbble.com/userupload/26889094/file/original-b78aa210ce37e92b670844decf2f2910.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutu-11&label=Profile%20views&color=0e75b6&style=flat" alt="rutu-11" /> </p>
 
 
