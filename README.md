@@ -5,12 +5,13 @@
 👋 Highly skilled and motivated Full Stack Web Developer with 3 years of experience in building robust web applications.
 Specializing in building scalable, high-performance applications with modular and reusable components using React Hooks, Context API, and Redux for efficient state management. 
 I have integrated REST APIs and GraphQL, optimized performance with lazy loading, memoization, and code splitting, and ensured responsive UI/UX using Material-UI, Bootstrap, and Styled Components.
-My expertise extends to debugging, writing unit tests with Jest & React Testing Library, tracking tasks in JIRA, and optimizing rendering speed using best practices. I have deployed applications on Heroku, Vercel, and Netlify, following CI/CD pipelines and Git version control. A key achievement includes developing a role-based asset management system for Maha Metro, improving efficiency and reducing load time by 40%.
+
+🌱 My expertise extends to debugging, writing unit tests with Jest & React Testing Library, tracking tasks in JIRA, and optimizing rendering speed using best practices. I have deployed applications on Heroku, Vercel, and Netlify, following CI/CD pipelines and Git version control.
+🎯 A key achievement includes developing a role-based asset management system for Maha Metro, improving efficiency and reducing load time by 40%.
 <img align="right"  alt="coading" marginLeft="20px" width="400" height="400" src="https://cdn.dribbble.com/userupload/26889094/file/original-b78aa210ce37e92b670844decf2f2910.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutu-11&label=Profile%20views&color=0e75b6&style=flat" alt="rutu-11" /> </p>
 
 
-- 🌱 I’m currently learning MERN stack
 
 - 👯 I’m looking to collaborate on OpenSource Projects
 
