@@ -1,5 +1,12 @@
 
 <h1 align="center">Hi there , 👋 I am Priya Deshmukh !</h1>
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;&center=true&width=500&height=50">
+</p>
+
+<br/>
 
 ## 🚀 About Me
 👋 Highly skilled and motivated Full Stack Web Developer with 3 years of experience in building robust web applications.
