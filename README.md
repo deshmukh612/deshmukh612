@@ -2,7 +2,10 @@
 <h1 align="center">Hi there , 👋 I am Priya Deshmukh !</h1>
 
 ## 🚀 About Me
-I am a Tech enthusiast. I love to build apps that are interesting and useful. and I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems sparkles.
+👋 Highly skilled and motivated Full Stack Web Developer with 3 years of experience in building robust web applications.
+Specializing in building scalable, high-performance applications with modular and reusable components using React Hooks, Context API, and Redux for efficient state management. 
+I have integrated REST APIs and GraphQL, optimized performance with lazy loading, memoization, and code splitting, and ensured responsive UI/UX using Material-UI, Bootstrap, and Styled Components.
+My expertise extends to debugging, writing unit tests with Jest & React Testing Library, tracking tasks in JIRA, and optimizing rendering speed using best practices. I have deployed applications on Heroku, Vercel, and Netlify, following CI/CD pipelines and Git version control. A key achievement includes developing a role-based asset management system for Maha Metro, improving efficiency and reducing load time by 40%.
 <img align="right"  alt="coading" marginLeft="20px" width="400" height="400" src="https://cdn.dribbble.com/userupload/26889094/file/original-b78aa210ce37e92b670844decf2f2910.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutu-11&label=Profile%20views&color=0e75b6&style=flat" alt="rutu-11" /> </p>
 
@@ -11,13 +14,14 @@ I am a Tech enthusiast. I love to build apps that are interesting and useful. an
 
 - 👯 I’m looking to collaborate on OpenSource Projects
 
-- 💬 Ask me about React and NodeJS
+- 👨‍💻 All of my projects are available at [https://priyaportfolio-nine.vercel.app/](https://priyaportfolio-nine.vercel.app/)
 
-- 💼 Visit my [portfolio](https://priyaportfolio-nine.vercel.app/) for more details
+- 📝 I regularly write articles on [https://medium.com/@priyadeshmukh612](https://medium.com/@priyadeshmukh612)
 
-- 📫 How to reach me: [priyadeshmukh865@gmail.com](priyadeshmukh865@gmail.com)
+- 💬 Ask me about **HTML, CSS, JavaScript, React-JS, Next JS, Redux, Node JS, Express, MongoDB, Mongoose, etc.**
 
-- 📄 Know about my [experiences](https://drive.google.com/file/d/143dfV225lWiSEuqvRVv--eYMno1njKl8/view)
+- 📫 How to reach me **priyadeshmukh865@gmail.com** 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1TPlYnsbrrE4yAezVhflK3wl92B9BjeKb/view](https://drive.google.com/file/d/1TPlYnsbrrE4yAezVhflK3wl92B9BjeKb/view)
 
 
 
@@ -26,7 +30,10 @@ I am a Tech enthusiast. I love to build apps that are interesting and useful. an
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priya-deshmukh-29a759130/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/priyades12)
 
+<div height=""100px"></div>
+
 <br/>
+
 
 <h2 align='center'> :pencil: Technical Skills</h2>
 
